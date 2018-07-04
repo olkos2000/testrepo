@@ -1,0 +1,5 @@
+REVIEWBOARD_URL = "https://github.com/olkos2000/testrepo.git"
+REPOSITORY = "testrepo"
+USERNAME = "Olgkos"
+PASSWORD = "rbnobitnami5?"
+TRACKING_BRANCH = "origin/release-2.0.x"
