@@ -1,5 +1,5 @@
-REVIEWBOARD_URL = "https://github.com/olkos2000/testrepo.git"
+REVIEWBOARD_URL = "https://rbcommons.com/s/bdkteam"
 REPOSITORY = "testrepo"
 USERNAME = "Olgkos"
 PASSWORD = "rbnobitnami5?"
-TRACKING_BRANCH = "origin/release-2.0.x"
+TRACKING_BRANCH = "origin/release-2.0"

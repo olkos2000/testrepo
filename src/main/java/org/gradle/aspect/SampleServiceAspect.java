@@ -20,7 +20,7 @@ public class SampleServiceAspect {
 
     @Before("execution(* org.gradle.service.SampleService.createSample (java.lang.String)) && args(sampleName)")
     public void beforeSampleCreation(String sampleName) {
-    	checkNotNull(hruzt);
+    	checkNotNull(hurz);
         LOGGER.info("A request was issued for a sample name: "+sampleName);
     }
 
